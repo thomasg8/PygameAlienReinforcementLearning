@@ -10,7 +10,7 @@ The agent uses 3 policies to play this game:
 
 After 10,000 simulations per method, the Random, Greedy, and Reinforcement Learning policies averaged 3.98, 16.55, and 45.86 turns, respectively. For these simulations, the visuals were removed to decrease run time. To see the trained agent's performance on 10 simulations for yourself, run SimulationWithVisual.py. 
 
-This project was created under the advisement of Dr. Bonifonte during the Spring semester of 2019 at Denison University. For more details, please read the corresponding paper titled ReinforcementLearninginPygame.pdf.
+For more details, please read the corresponding paper titled ReinforcementLearninginPygame.pdf.
 
 
 
