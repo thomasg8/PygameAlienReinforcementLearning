@@ -1,4 +1,4 @@
-# PygameReinforcementLearning
+# Reinforcement Learning Pygame
 This project uses reinforcement learning to train an agent to play a custom game built in pygame. The game is a turn based game with an alient agent that has to dodge falling meteorites. The alien can only move left, none/up, or right, while the meteorites move down one row every turn. An example turn of the game is shown in the figure below.
 
 <a href="url"><img src="https://github.com/thomasg8/PygameAlienReinforcementLearning/blob/master/Code/figs/ExState-1.png" align="center" height="256" width="256" ></a>
